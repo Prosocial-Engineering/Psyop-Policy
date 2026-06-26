@@ -1,4 +1,4 @@
-Not yet ratified.
+Not yet ratified / placeholder.
 
 1. I consent to independent audit of my influence operations
 2. I do not monitor, influence, or interfere in any way with minds that do not consent to influence operations
