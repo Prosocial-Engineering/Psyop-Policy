@@ -1,6 +1,6 @@
 # Psyop Policy
 
-This is the code of conduct we follow when conducting psychological operations. 
+This is the code we follow when conducting psychological operations at [Prosocial Engineering](https://prosocialengineering.org/).
 
 1. We declare ourselves to be social engineers, in any territory that we operate in, in language that is legible to our targets 
 2. We consent to audits from any territory that our operations affect
