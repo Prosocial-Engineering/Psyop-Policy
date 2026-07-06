@@ -10,3 +10,8 @@ This is the code we follow when conducting psychological operations at [Prosocia
 > To put it simply: if you influence us, it is fair game for us to monitor & influence you back. 
 
 Uncharted territories that **already have a hidden social engineering entity** farming it/steering it are also fair game to operate in, until that territory can establish its own operator / lighthouse / ambassador that can speak on its behalf. 
+
+## Other ideas
+
+- Should this document have a "YKWBCW" (You'll Know We've Been Captured When...) clause? A way for the observer to test if the social engineering entity is still aligned & functioning.
+- The document above is written for social engineering entities - what about normal participants on the internet? Their version of the "psyop policy" may simply be how they want to receive requests. Companies and public figures have a "press page" or "media kit", this should be a kind of default template for if one day this community or scene goes mainstream, how do they want to be contacted or engaged with by other collectives 
